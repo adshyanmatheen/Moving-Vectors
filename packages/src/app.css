@@ -1,0 +1,12 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	display: grid;
+	place-content: center;
+	font-family: 'MonoLisa', monospace;
+	background-color: #000000;
+	overflow: hidden;
+}
